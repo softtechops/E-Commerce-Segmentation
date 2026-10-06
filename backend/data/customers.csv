@@ -1,0 +1,601 @@
+Customer_ID,Gender,Age_Group,Location,Membership,Purchase_Frequency,Payment_Method,Product_Category,Discount_Usage,Feedback,Rating
+C1001,Female,36-50,Hyderabad,Bronze,Occasional,Credit Card,Sports & Fitness,No,"Average shopping experience, arrived on time as expected.",3
+C1002,Other,18-25,Hyderabad,Silver,Frequent,Credit Card,Fashion,Low,The product quality was excellent and packaging was top-notch.,4
+C1003,Male,26-35,Hyderabad,None,Regular,UPI,Home & Kitchen,Yes,"Decent quality for daily use, coupon code made it very cheap.",4
+C1004,Other,18-25,Kolkata,Silver,Rare,Debit Card,Sports & Fitness,No,"Standard delivery speed, okay product quality overall.",3
+C1005,Female,26-35,Delhi,Silver,Occasional,Cash on Delivery,Sports & Fitness,Moderate,"Normal quality item, serves the intended purpose well.",4
+C1006,Other,18-25,Bengaluru,Bronze,Occasional,Cash on Delivery,Books & Stationery,Moderate,"Standard delivery speed, okay product quality overall.",3
+C1007,Female,18-25,Chennai,Silver,Occasional,Debit Card,Beauty & Personal Care,No,"Standard delivery speed, okay product quality overall.",3
+C1008,Male,26-35,Pune,Bronze,Rare,Debit Card,Fashion,High,"Not recommended at all, delivery executive was extremely rude.",1
+C1009,Male,18-25,Mumbai,Platinum,Frequent,Credit Card,Beauty & Personal Care,No,Outstanding experience and lightning-fast next-day delivery!,4
+C1010,Male,18-25,Delhi,Silver,Occasional,Debit Card,Fashion,Yes,Best value deal I found online compared to other platforms.,3
+C1011,Male,26-35,Delhi,None,Occasional,Cash on Delivery,Electronics,No,Delivery was delayed by a week and the outer box was damaged.,2
+C1012,Male,36-50,Hyderabad,Platinum,Frequent,Credit Card,Electronics,Low,Outstanding experience and lightning-fast next-day delivery!,5
+C1013,Other,50+,Bengaluru,Platinum,Regular,Net Banking,Electronics,Low,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1014,Other,50+,Delhi,None,Regular,Credit Card,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",5
+C1015,Female,36-50,Delhi,Silver,Frequent,UPI,Beauty & Personal Care,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",5
+C1016,Female,50+,Kolkata,None,Regular,UPI,Books & Stationery,Yes,"Satisfied with the discount, though delivery took 4 days.",4
+C1017,Other,18-25,Mumbai,Gold,Regular,UPI,Electronics,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1018,Male,26-35,Delhi,Gold,Regular,Credit Card,Electronics,Low,The product quality was excellent and packaging was top-notch.,4
+C1019,Female,50+,Ahmedabad,Silver,Rare,UPI,Electronics,Yes,Delivery was delayed by a week and the outer box was damaged.,1
+C1020,Male,36-50,Kolkata,Silver,Occasional,Net Banking,Books & Stationery,Sometimes,"Satisfactory purchase, nothing extraordinary but works fine.",3
+C1021,Other,26-35,Mumbai,Silver,Regular,Cash on Delivery,Fashion,High,"Good product considering the discount, but packaging was plain.",4
+C1022,Other,18-25,Delhi,Bronze,Frequent,Debit Card,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",4
+C1023,Male,36-50,Delhi,Silver,Occasional,Debit Card,Beauty & Personal Care,No,"Fair experience, will consider ordering again when needed.",4
+C1024,Female,36-50,Pune,Gold,Frequent,UPI,Beauty & Personal Care,Low,The product quality was excellent and packaging was top-notch.,4
+C1025,Female,26-35,Pune,None,Rare,Cash on Delivery,Home & Kitchen,No,"Defective piece received, took forever to get a replacement.",3
+C1026,Male,50+,Pune,Silver,Occasional,Cash on Delivery,Books & Stationery,Sometimes,"Normal quality item, serves the intended purpose well.",3
+C1027,Other,50+,Kolkata,Silver,Frequent,Credit Card,Electronics,Low,The product quality was excellent and packaging was top-notch.,5
+C1028,Female,18-25,Pune,Platinum,Frequent,UPI,Electronics,Low,Outstanding experience and lightning-fast next-day delivery!,5
+C1029,Other,26-35,Hyderabad,Bronze,Rare,UPI,Electronics,Yes,"Not recommended at all, delivery executive was extremely rude.",2
+C1030,Male,26-35,Delhi,Silver,Occasional,Cash on Delivery,Beauty & Personal Care,Sometimes,"Normal quality item, serves the intended purpose well.",4
+C1031,Female,26-35,Kolkata,Platinum,Frequent,Credit Card,Fashion,No,"Consistently reliable quality, very happy with this purchase.",4
+C1032,Female,18-25,Pune,None,Frequent,Debit Card,Fashion,Yes,"Satisfied with the discount, though delivery took 4 days.",5
+C1033,Other,18-25,Kolkata,Silver,Regular,Debit Card,Fashion,High,"Great discount during the festive flash sale, decent product.",3
+C1034,Other,26-35,Chennai,Silver,Occasional,Net Banking,Sports & Fitness,Moderate,"Fair experience, will consider ordering again when needed.",3
+C1035,Other,36-50,Bengaluru,None,Occasional,UPI,Books & Stationery,High,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1036,Female,50+,Chennai,Bronze,Occasional,UPI,Books & Stationery,Yes,"Great budget option, met my basic expectations for the price.",5
+C1037,Other,18-25,Pune,None,Occasional,Cash on Delivery,Sports & Fitness,Moderate,"Standard delivery speed, okay product quality overall.",4
+C1038,Female,50+,Kolkata,Bronze,Rare,Credit Card,Books & Stationery,Moderate,"The item matches the description, decent for occasional use.",4
+C1039,Female,26-35,Ahmedabad,Silver,Rare,UPI,Beauty & Personal Care,Moderate,"Balanced quality for the price, neither great nor bad.",4
+C1040,Male,50+,Ahmedabad,None,Frequent,UPI,Home & Kitchen,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1041,Male,50+,Delhi,None,Occasional,Net Banking,Books & Stationery,Moderate,"Average shopping experience, arrived on time as expected.",3
+C1042,Other,26-35,Delhi,Silver,Occasional,Net Banking,Sports & Fitness,Moderate,"Satisfactory purchase, nothing extraordinary but works fine.",4
+C1043,Other,18-25,Kolkata,Silver,Rare,Debit Card,Home & Kitchen,No,"Defective piece received, took forever to get a replacement.",1
+C1044,Male,36-50,Kolkata,None,Occasional,Cash on Delivery,Books & Stationery,High,"Satisfied with the discount, though delivery took 4 days.",4
+C1045,Male,26-35,Ahmedabad,Gold,Frequent,UPI,Fashion,No,Superb packaging and genuine brand warranty included.,5
+C1046,Male,36-50,Delhi,Bronze,Regular,UPI,Home & Kitchen,Yes,"Great discount during the festive flash sale, decent product.",4
+C1047,Female,26-35,Hyderabad,Gold,Frequent,Credit Card,Beauty & Personal Care,No,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1048,Other,18-25,Bengaluru,None,Occasional,Debit Card,Books & Stationery,No,"Average customer support response, product is okay.",4
+C1049,Other,26-35,Delhi,None,Frequent,UPI,Books & Stationery,Yes,"Satisfied with the discount, though delivery took 4 days.",4
+C1050,Male,50+,Delhi,Gold,Frequent,Net Banking,Beauty & Personal Care,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",5
+C1051,Other,50+,Ahmedabad,Gold,Regular,UPI,Fashion,No,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1052,Other,50+,Chennai,Bronze,Occasional,Debit Card,Fashion,Yes,"Decent quality for daily use, coupon code made it very cheap.",3
+C1053,Other,36-50,Mumbai,Bronze,Rare,Cash on Delivery,Fashion,No,"Defective piece received, took forever to get a replacement.",1
+C1054,Female,18-25,Pune,None,Occasional,Cash on Delivery,Home & Kitchen,High,"Decent quality for daily use, coupon code made it very cheap.",5
+C1055,Other,36-50,Chennai,Bronze,Occasional,Debit Card,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",4
+C1056,Other,26-35,Hyderabad,Bronze,Occasional,UPI,Home & Kitchen,High,"Very frustrating experience, refund took over 10 days to process.",3
+C1057,Male,26-35,Pune,Bronze,Frequent,Cash on Delivery,Home & Kitchen,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",4
+C1058,Male,18-25,Mumbai,None,Rare,UPI,Home & Kitchen,No,Delivery was delayed by a week and the outer box was damaged.,2
+C1059,Female,50+,Ahmedabad,Platinum,Regular,Credit Card,Electronics,No,"Flawless shopping experience, the premium membership benefits are worth it.",4
+C1060,Male,26-35,Kolkata,Bronze,Occasional,Debit Card,Books & Stationery,Yes,"Great discount during the festive flash sale, decent product.",4
+C1061,Female,26-35,Pune,None,Rare,Cash on Delivery,Electronics,High,"Item did not match pictures shown on website, low quality material.",1
+C1062,Female,26-35,Pune,None,Frequent,UPI,Fashion,High,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1063,Female,50+,Delhi,Bronze,Rare,UPI,Books & Stationery,Sometimes,"Satisfactory purchase, nothing extraordinary but works fine.",3
+C1064,Other,36-50,Ahmedabad,Silver,Occasional,Net Banking,Sports & Fitness,Moderate,"Balanced quality for the price, neither great nor bad.",3
+C1065,Other,36-50,Pune,None,Rare,Cash on Delivery,Fashion,High,Delivery was delayed by a week and the outer box was damaged.,3
+C1066,Female,26-35,Ahmedabad,Silver,Regular,Net Banking,Fashion,No,"Consistently reliable quality, very happy with this purchase.",4
+C1067,Male,50+,Chennai,Platinum,Regular,Credit Card,Electronics,No,Superb packaging and genuine brand warranty included.,5
+C1068,Other,18-25,Ahmedabad,Silver,Occasional,Net Banking,Books & Stationery,Sometimes,"Satisfactory purchase, nothing extraordinary but works fine.",4
+C1069,Female,36-50,Ahmedabad,Bronze,Regular,Cash on Delivery,Home & Kitchen,High,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1070,Other,26-35,Bengaluru,Platinum,Regular,Credit Card,Beauty & Personal Care,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1071,Female,26-35,Ahmedabad,None,Frequent,Debit Card,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",3
+C1072,Other,26-35,Delhi,Platinum,Frequent,UPI,Beauty & Personal Care,No,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1073,Other,50+,Bengaluru,Bronze,Frequent,UPI,Home & Kitchen,Yes,"Satisfied with the discount, though delivery took 4 days.",5
+C1074,Other,26-35,Kolkata,Gold,Frequent,Credit Card,Fashion,Low,"Consistently reliable quality, very happy with this purchase.",5
+C1075,Female,50+,Mumbai,Silver,Occasional,Debit Card,Electronics,No,"Misleading product description and late dispatch, very unhappy.",1
+C1076,Female,18-25,Ahmedabad,None,Occasional,Cash on Delivery,Sports & Fitness,Sometimes,"Average customer support response, product is okay.",3
+C1077,Male,18-25,Delhi,Bronze,Occasional,Debit Card,Electronics,High,"Not recommended at all, delivery executive was extremely rude.",1
+C1078,Female,50+,Bengaluru,None,Occasional,Debit Card,Books & Stationery,Sometimes,"Normal quality item, serves the intended purpose well.",3
+C1079,Other,26-35,Bengaluru,None,Regular,UPI,Books & Stationery,High,"Great budget option, met my basic expectations for the price.",3
+C1080,Male,50+,Pune,Bronze,Occasional,Debit Card,Books & Stationery,High,Affordable pricing and reasonable quality for the money spent.,3
+C1081,Other,50+,Pune,Bronze,Occasional,Cash on Delivery,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",4
+C1082,Other,36-50,Mumbai,Bronze,Occasional,UPI,Books & Stationery,High,"Great budget option, met my basic expectations for the price.",4
+C1083,Female,36-50,Hyderabad,Bronze,Rare,Net Banking,Sports & Fitness,No,"Average shopping experience, arrived on time as expected.",4
+C1084,Male,18-25,Chennai,None,Regular,Debit Card,Home & Kitchen,High,Best value deal I found online compared to other platforms.,3
+C1085,Male,36-50,Bengaluru,None,Rare,Debit Card,Fashion,No,"Misleading product description and late dispatch, very unhappy.",1
+C1086,Other,50+,Chennai,None,Rare,Cash on Delivery,Home & Kitchen,High,"Misleading product description and late dispatch, very unhappy.",1
+C1087,Male,36-50,Delhi,Gold,Frequent,Credit Card,Beauty & Personal Care,Low,"Exceptional customer service, resolved my inquiry within minutes.",4
+C1088,Other,36-50,Kolkata,Bronze,Regular,UPI,Fashion,Yes,Affordable pricing and reasonable quality for the money spent.,3
+C1089,Male,36-50,Kolkata,Silver,Regular,Credit Card,Fashion,Low,Superb packaging and genuine brand warranty included.,5
+C1090,Other,36-50,Hyderabad,Bronze,Frequent,Credit Card,Fashion,No,"Superior product build, completely exceeded my expectations!",4
+C1091,Male,18-25,Hyderabad,Silver,Frequent,Credit Card,Fashion,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1092,Female,36-50,Bengaluru,Silver,Occasional,UPI,Beauty & Personal Care,No,"The item matches the description, decent for occasional use.",3
+C1093,Male,26-35,Chennai,Platinum,Frequent,UPI,Electronics,No,Outstanding experience and lightning-fast next-day delivery!,5
+C1094,Other,18-25,Ahmedabad,Bronze,Rare,Debit Card,Sports & Fitness,No,"Fair experience, will consider ordering again when needed.",3
+C1095,Male,50+,Kolkata,Bronze,Frequent,Net Banking,Electronics,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",4
+C1096,Other,36-50,Kolkata,Silver,Frequent,Debit Card,Home & Kitchen,High,"Satisfied with the discount, though delivery took 4 days.",5
+C1097,Other,26-35,Kolkata,Silver,Rare,UPI,Home & Kitchen,No,"Not recommended at all, delivery executive was extremely rude.",1
+C1098,Male,36-50,Bengaluru,Bronze,Regular,UPI,Fashion,Yes,Affordable pricing and reasonable quality for the money spent.,3
+C1099,Female,36-50,Delhi,Gold,Frequent,Net Banking,Beauty & Personal Care,No,"Flawless shopping experience, the premium membership benefits are worth it.",4
+C1100,Other,50+,Hyderabad,Platinum,Frequent,UPI,Electronics,No,"Exceptional customer service, resolved my inquiry within minutes.",4
+C1101,Other,18-25,Pune,Silver,Rare,Debit Card,Fashion,No,"Poor build quality, stopped working within two weeks of use.",2
+C1102,Female,18-25,Delhi,Silver,Regular,UPI,Home & Kitchen,Yes,Best value deal I found online compared to other platforms.,4
+C1103,Other,18-25,Mumbai,Bronze,Occasional,Debit Card,Sports & Fitness,Sometimes,"Balanced quality for the price, neither great nor bad.",3
+C1104,Male,26-35,Delhi,None,Occasional,UPI,Home & Kitchen,High,"Great budget option, met my basic expectations for the price.",5
+C1105,Other,18-25,Mumbai,Gold,Frequent,Credit Card,Electronics,No,"Superior product build, completely exceeded my expectations!",4
+C1106,Female,50+,Hyderabad,Gold,Frequent,Debit Card,Fashion,Yes,"Satisfied with the discount, though delivery took 4 days.",4
+C1107,Other,50+,Kolkata,None,Regular,UPI,Fashion,Yes,"Great budget option, met my basic expectations for the price.",3
+C1108,Female,26-35,Kolkata,Silver,Frequent,Credit Card,Fashion,No,"Exceptional customer service, resolved my inquiry within minutes.",4
+C1109,Female,26-35,Chennai,None,Frequent,Cash on Delivery,Fashion,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1110,Other,18-25,Bengaluru,Silver,Occasional,Cash on Delivery,Sports & Fitness,No,"Normal quality item, serves the intended purpose well.",3
+C1111,Female,50+,Ahmedabad,Platinum,Frequent,UPI,Fashion,Low,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1112,Female,18-25,Kolkata,Silver,Occasional,Cash on Delivery,Home & Kitchen,High,"Poor build quality, stopped working within two weeks of use.",2
+C1113,Male,18-25,Chennai,None,Occasional,Cash on Delivery,Electronics,Yes,"Misleading product description and late dispatch, very unhappy.",1
+C1114,Male,50+,Kolkata,None,Frequent,UPI,Books & Stationery,High,Affordable pricing and reasonable quality for the money spent.,4
+C1115,Male,26-35,Chennai,Bronze,Frequent,Cash on Delivery,Home & Kitchen,Yes,Best value deal I found online compared to other platforms.,3
+C1116,Male,36-50,Bengaluru,Silver,Regular,UPI,Books & Stationery,Yes,"Decent quality for daily use, coupon code made it very cheap.",4
+C1117,Male,26-35,Hyderabad,None,Regular,UPI,Home & Kitchen,Yes,"Great discount during the festive flash sale, decent product.",5
+C1118,Other,50+,Bengaluru,Bronze,Occasional,UPI,Sports & Fitness,Moderate,"Average customer support response, product is okay.",3
+C1119,Other,36-50,Ahmedabad,Bronze,Occasional,Cash on Delivery,Home & Kitchen,No,"Poor build quality, stopped working within two weeks of use.",2
+C1120,Male,50+,Kolkata,None,Regular,Cash on Delivery,Home & Kitchen,Yes,"Decent quality for daily use, coupon code made it very cheap.",3
+C1121,Female,36-50,Delhi,Bronze,Rare,UPI,Fashion,Yes,"Customer support was unhelpful, very disappointing return process.",1
+C1122,Male,18-25,Kolkata,Bronze,Occasional,Debit Card,Fashion,Yes,"Decent quality for daily use, coupon code made it very cheap.",4
+C1123,Other,36-50,Bengaluru,Gold,Frequent,Credit Card,Fashion,Low,Superb packaging and genuine brand warranty included.,5
+C1124,Female,26-35,Kolkata,Platinum,Frequent,Credit Card,Fashion,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1125,Female,50+,Mumbai,Bronze,Frequent,Cash on Delivery,Books & Stationery,Yes,"Satisfied with the discount, though delivery took 4 days.",4
+C1126,Other,18-25,Chennai,Bronze,Frequent,UPI,Home & Kitchen,Yes,"Satisfied with the discount, though delivery took 4 days.",4
+C1127,Female,36-50,Hyderabad,Platinum,Regular,UPI,Electronics,No,"Superior product build, completely exceeded my expectations!",4
+C1128,Male,50+,Bengaluru,Bronze,Occasional,Cash on Delivery,Beauty & Personal Care,Moderate,"Satisfactory purchase, nothing extraordinary but works fine.",4
+C1129,Male,50+,Ahmedabad,None,Regular,Cash on Delivery,Home & Kitchen,Yes,"Decent quality for daily use, coupon code made it very cheap.",4
+C1130,Male,50+,Kolkata,None,Regular,UPI,Books & Stationery,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",4
+C1131,Other,26-35,Pune,Platinum,Frequent,Credit Card,Fashion,Low,"Flawless shopping experience, the premium membership benefits are worth it.",4
+C1132,Male,36-50,Ahmedabad,None,Regular,UPI,Beauty & Personal Care,No,The product quality was excellent and packaging was top-notch.,4
+C1133,Other,26-35,Mumbai,Bronze,Rare,Cash on Delivery,Beauty & Personal Care,Sometimes,"Standard delivery speed, okay product quality overall.",3
+C1134,Other,18-25,Bengaluru,Bronze,Occasional,Debit Card,Home & Kitchen,Yes,Best value deal I found online compared to other platforms.,5
+C1135,Female,18-25,Mumbai,Bronze,Occasional,Cash on Delivery,Sports & Fitness,Sometimes,"Fair experience, will consider ordering again when needed.",3
+C1136,Other,50+,Hyderabad,Silver,Occasional,Debit Card,Books & Stationery,Sometimes,"Average shopping experience, arrived on time as expected.",4
+C1137,Other,36-50,Delhi,None,Rare,Cash on Delivery,Fashion,High,"Poor build quality, stopped working within two weeks of use.",2
+C1138,Female,26-35,Ahmedabad,None,Frequent,UPI,Fashion,Low,Outstanding experience and lightning-fast next-day delivery!,5
+C1139,Other,50+,Kolkata,Silver,Occasional,Net Banking,Sports & Fitness,Sometimes,"Balanced quality for the price, neither great nor bad.",4
+C1140,Other,26-35,Bengaluru,Silver,Occasional,Cash on Delivery,Electronics,High,"Very frustrating experience, refund took over 10 days to process.",2
+C1141,Male,36-50,Delhi,None,Occasional,Net Banking,Beauty & Personal Care,No,"Average shopping experience, arrived on time as expected.",3
+C1142,Female,26-35,Chennai,None,Rare,Cash on Delivery,Electronics,High,"Very frustrating experience, refund took over 10 days to process.",3
+C1143,Other,18-25,Ahmedabad,Silver,Occasional,Debit Card,Home & Kitchen,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1144,Male,50+,Ahmedabad,Gold,Frequent,Credit Card,Fashion,Low,"Superior product build, completely exceeded my expectations!",4
+C1145,Other,18-25,Chennai,None,Occasional,UPI,Home & Kitchen,Yes,Best value deal I found online compared to other platforms.,3
+C1146,Other,50+,Hyderabad,None,Occasional,Debit Card,Fashion,Yes,"Great budget option, met my basic expectations for the price.",3
+C1147,Male,50+,Hyderabad,Gold,Regular,UPI,Electronics,No,Superb packaging and genuine brand warranty included.,4
+C1148,Male,18-25,Delhi,Gold,Occasional,Net Banking,Sports & Fitness,Moderate,"Normal quality item, serves the intended purpose well.",4
+C1149,Other,36-50,Delhi,Gold,Regular,Net Banking,Beauty & Personal Care,No,Outstanding experience and lightning-fast next-day delivery!,4
+C1150,Male,36-50,Bengaluru,None,Frequent,UPI,Books & Stationery,Yes,"Great discount during the festive flash sale, decent product.",4
+C1151,Male,26-35,Bengaluru,None,Frequent,Debit Card,Fashion,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",5
+C1152,Male,36-50,Ahmedabad,Bronze,Occasional,Debit Card,Books & Stationery,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1153,Female,50+,Pune,Bronze,Rare,Debit Card,Sports & Fitness,Moderate,"Average customer support response, product is okay.",4
+C1154,Other,18-25,Hyderabad,Platinum,Frequent,UPI,Fashion,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1155,Other,18-25,Bengaluru,Bronze,Occasional,Debit Card,Fashion,No,"Not recommended at all, delivery executive was extremely rude.",3
+C1156,Male,36-50,Pune,Silver,Rare,Cash on Delivery,Home & Kitchen,High,"Defective piece received, took forever to get a replacement.",2
+C1157,Other,26-35,Ahmedabad,None,Occasional,Net Banking,Sports & Fitness,No,"Fair experience, will consider ordering again when needed.",3
+C1158,Male,36-50,Bengaluru,None,Regular,Debit Card,Books & Stationery,Yes,"Great budget option, met my basic expectations for the price.",4
+C1159,Other,36-50,Pune,Gold,Frequent,Cash on Delivery,Electronics,No,"Exceptional customer service, resolved my inquiry within minutes.",4
+C1160,Male,18-25,Bengaluru,Bronze,Frequent,Cash on Delivery,Home & Kitchen,High,"Great budget option, met my basic expectations for the price.",3
+C1161,Male,18-25,Delhi,Silver,Regular,UPI,Fashion,Yes,"Great discount during the festive flash sale, decent product.",3
+C1162,Other,36-50,Mumbai,Bronze,Occasional,UPI,Home & Kitchen,Yes,"Great budget option, met my basic expectations for the price.",3
+C1163,Male,26-35,Delhi,None,Regular,UPI,Books & Stationery,Yes,"Great discount during the festive flash sale, decent product.",3
+C1164,Female,26-35,Kolkata,Bronze,Frequent,Debit Card,Fashion,Yes,Best value deal I found online compared to other platforms.,4
+C1165,Female,36-50,Kolkata,Bronze,Rare,Debit Card,Home & Kitchen,No,Delivery was delayed by a week and the outer box was damaged.,3
+C1166,Other,18-25,Ahmedabad,Platinum,Frequent,Net Banking,Beauty & Personal Care,Low,Outstanding experience and lightning-fast next-day delivery!,4
+C1167,Female,26-35,Bengaluru,Bronze,Regular,UPI,Books & Stationery,High,"Satisfied with the discount, though delivery took 4 days.",4
+C1168,Other,26-35,Hyderabad,Silver,Rare,Cash on Delivery,Sports & Fitness,No,"Average shopping experience, arrived on time as expected.",3
+C1169,Other,26-35,Bengaluru,Bronze,Rare,UPI,Electronics,High,"Misleading product description and late dispatch, very unhappy.",2
+C1170,Male,26-35,Kolkata,Silver,Rare,Debit Card,Sports & Fitness,Moderate,"Satisfactory purchase, nothing extraordinary but works fine.",3
+C1171,Other,18-25,Mumbai,None,Occasional,Debit Card,Sports & Fitness,Sometimes,"Balanced quality for the price, neither great nor bad.",3
+C1172,Other,50+,Chennai,Gold,Frequent,Net Banking,Fashion,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",4
+C1173,Other,50+,Bengaluru,Gold,Frequent,Credit Card,Fashion,No,"Consistently reliable quality, very happy with this purchase.",4
+C1174,Male,26-35,Pune,Gold,Regular,Net Banking,Electronics,Low,The product quality was excellent and packaging was top-notch.,5
+C1175,Other,18-25,Hyderabad,Platinum,Frequent,Net Banking,Electronics,Low,The product quality was excellent and packaging was top-notch.,5
+C1176,Other,36-50,Chennai,Gold,Frequent,Net Banking,Beauty & Personal Care,Low,"Consistently reliable quality, very happy with this purchase.",5
+C1177,Female,50+,Ahmedabad,None,Rare,UPI,Fashion,No,"Not recommended at all, delivery executive was extremely rude.",1
+C1178,Male,26-35,Hyderabad,None,Rare,UPI,Books & Stationery,Sometimes,"Average customer support response, product is okay.",3
+C1179,Female,36-50,Hyderabad,None,Regular,Credit Card,Fashion,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1180,Female,26-35,Hyderabad,Silver,Occasional,Net Banking,Books & Stationery,Sometimes,"Standard delivery speed, okay product quality overall.",4
+C1181,Male,26-35,Hyderabad,Silver,Rare,Debit Card,Home & Kitchen,No,"Poor build quality, stopped working within two weeks of use.",1
+C1182,Male,18-25,Ahmedabad,None,Rare,Net Banking,Home & Kitchen,No,"Defective piece received, took forever to get a replacement.",1
+C1183,Other,50+,Pune,Bronze,Rare,Debit Card,Electronics,No,"Defective piece received, took forever to get a replacement.",3
+C1184,Male,50+,Ahmedabad,Silver,Occasional,Net Banking,Beauty & Personal Care,Sometimes,"Balanced quality for the price, neither great nor bad.",3
+C1185,Female,18-25,Delhi,None,Rare,Net Banking,Electronics,High,"Customer support was unhelpful, very disappointing return process.",2
+C1186,Female,50+,Ahmedabad,Bronze,Regular,UPI,Fashion,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",5
+C1187,Other,50+,Bengaluru,Bronze,Regular,Cash on Delivery,Fashion,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",5
+C1188,Male,50+,Ahmedabad,Silver,Regular,Cash on Delivery,Home & Kitchen,High,"Great discount during the festive flash sale, decent product.",4
+C1189,Female,18-25,Bengaluru,Bronze,Occasional,UPI,Books & Stationery,Yes,Affordable pricing and reasonable quality for the money spent.,5
+C1190,Other,50+,Pune,Platinum,Frequent,UPI,Beauty & Personal Care,Low,"Top-tier craftsmanship, always my preferred platform for luxury items.",5
+C1191,Other,26-35,Kolkata,None,Rare,Cash on Delivery,Fashion,Yes,"Not recommended at all, delivery executive was extremely rude.",3
+C1192,Other,26-35,Delhi,Silver,Frequent,Debit Card,Fashion,Yes,"Good product considering the discount, but packaging was plain.",3
+C1193,Other,50+,Chennai,Silver,Rare,Net Banking,Books & Stationery,Moderate,"Normal quality item, serves the intended purpose well.",4
+C1194,Other,50+,Delhi,Silver,Frequent,Credit Card,Beauty & Personal Care,No,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1195,Other,50+,Chennai,None,Occasional,Debit Card,Beauty & Personal Care,Moderate,"Normal quality item, serves the intended purpose well.",4
+C1196,Male,50+,Kolkata,Platinum,Frequent,Cash on Delivery,Fashion,Low,"Superior product build, completely exceeded my expectations!",5
+C1197,Female,26-35,Bengaluru,Bronze,Regular,Cash on Delivery,Home & Kitchen,Yes,"Great budget option, met my basic expectations for the price.",4
+C1198,Male,50+,Delhi,Platinum,Frequent,Credit Card,Beauty & Personal Care,Low,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1199,Male,36-50,Kolkata,Platinum,Frequent,UPI,Fashion,Low,"Top-tier craftsmanship, always my preferred platform for luxury items.",4
+C1200,Male,36-50,Bengaluru,Silver,Occasional,Net Banking,Sports & Fitness,No,"Standard delivery speed, okay product quality overall.",4
+C1201,Male,18-25,Hyderabad,Bronze,Rare,Debit Card,Sports & Fitness,Moderate,"Balanced quality for the price, neither great nor bad.",4
+C1202,Male,50+,Bengaluru,None,Frequent,UPI,Beauty & Personal Care,No,"Consistently reliable quality, very happy with this purchase.",5
+C1203,Other,50+,Mumbai,None,Frequent,Cash on Delivery,Fashion,Yes,Best value deal I found online compared to other platforms.,4
+C1204,Male,50+,Delhi,None,Rare,Debit Card,Electronics,High,"Defective piece received, took forever to get a replacement.",3
+C1205,Other,26-35,Chennai,Silver,Occasional,Debit Card,Books & Stationery,Moderate,"Average shopping experience, arrived on time as expected.",3
+C1206,Male,50+,Hyderabad,Silver,Occasional,Debit Card,Home & Kitchen,Yes,"Great budget option, met my basic expectations for the price.",3
+C1207,Female,18-25,Chennai,Silver,Rare,UPI,Sports & Fitness,Sometimes,"The item matches the description, decent for occasional use.",3
+C1208,Male,26-35,Kolkata,None,Regular,UPI,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",5
+C1209,Female,26-35,Pune,Platinum,Regular,Credit Card,Beauty & Personal Care,No,"Superior product build, completely exceeded my expectations!",4
+C1210,Male,36-50,Kolkata,Silver,Rare,Debit Card,Books & Stationery,Moderate,"The item matches the description, decent for occasional use.",4
+C1211,Other,18-25,Bengaluru,None,Regular,Cash on Delivery,Home & Kitchen,Yes,"Decent quality for daily use, coupon code made it very cheap.",3
+C1212,Female,50+,Kolkata,None,Occasional,Cash on Delivery,Books & Stationery,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1213,Female,36-50,Mumbai,Bronze,Regular,Cash on Delivery,Home & Kitchen,High,"Great budget option, met my basic expectations for the price.",5
+C1214,Male,50+,Bengaluru,Silver,Rare,Debit Card,Beauty & Personal Care,Moderate,"Fair experience, will consider ordering again when needed.",3
+C1215,Other,50+,Delhi,Silver,Occasional,Net Banking,Sports & Fitness,Sometimes,"Standard delivery speed, okay product quality overall.",4
+C1216,Female,36-50,Mumbai,Silver,Rare,Debit Card,Electronics,No,"Defective piece received, took forever to get a replacement.",1
+C1217,Other,50+,Bengaluru,Bronze,Occasional,UPI,Beauty & Personal Care,No,"Fair experience, will consider ordering again when needed.",3
+C1218,Male,36-50,Pune,None,Rare,UPI,Electronics,No,"Item did not match pictures shown on website, low quality material.",2
+C1219,Other,50+,Ahmedabad,Gold,Occasional,Debit Card,Fashion,No,"Misleading product description and late dispatch, very unhappy.",1
+C1220,Other,36-50,Ahmedabad,Silver,Occasional,Debit Card,Sports & Fitness,Sometimes,"Normal quality item, serves the intended purpose well.",4
+C1221,Male,26-35,Ahmedabad,None,Occasional,Debit Card,Home & Kitchen,High,Best value deal I found online compared to other platforms.,5
+C1222,Other,18-25,Mumbai,Bronze,Frequent,UPI,Fashion,Yes,"Great budget option, met my basic expectations for the price.",3
+C1223,Other,26-35,Pune,None,Occasional,UPI,Books & Stationery,Yes,Affordable pricing and reasonable quality for the money spent.,4
+C1224,Male,36-50,Hyderabad,Gold,Regular,Credit Card,Beauty & Personal Care,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1225,Other,50+,Mumbai,None,Regular,UPI,Electronics,No,Superb packaging and genuine brand warranty included.,5
+C1226,Female,36-50,Chennai,None,Occasional,Debit Card,Beauty & Personal Care,No,"Average shopping experience, arrived on time as expected.",4
+C1227,Other,26-35,Bengaluru,Bronze,Frequent,UPI,Fashion,Yes,Best value deal I found online compared to other platforms.,4
+C1228,Male,36-50,Bengaluru,None,Occasional,UPI,Fashion,High,"Pocket-friendly prices, worth buying if coupons are applied.",5
+C1229,Other,36-50,Hyderabad,Bronze,Occasional,UPI,Home & Kitchen,High,"Defective piece received, took forever to get a replacement.",1
+C1230,Other,18-25,Mumbai,None,Occasional,Cash on Delivery,Home & Kitchen,High,"Decent quality for daily use, coupon code made it very cheap.",3
+C1231,Female,18-25,Delhi,Bronze,Occasional,Cash on Delivery,Fashion,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1232,Other,50+,Delhi,Silver,Frequent,Cash on Delivery,Home & Kitchen,Yes,Affordable pricing and reasonable quality for the money spent.,4
+C1233,Other,36-50,Kolkata,Silver,Occasional,Cash on Delivery,Sports & Fitness,Sometimes,"Standard delivery speed, okay product quality overall.",3
+C1234,Other,18-25,Pune,None,Regular,UPI,Books & Stationery,Yes,Best value deal I found online compared to other platforms.,4
+C1235,Other,36-50,Bengaluru,None,Regular,Debit Card,Books & Stationery,Yes,"Decent quality for daily use, coupon code made it very cheap.",4
+C1236,Other,18-25,Ahmedabad,Gold,Regular,UPI,Electronics,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",4
+C1237,Other,18-25,Hyderabad,Silver,Frequent,Credit Card,Electronics,No,Superb packaging and genuine brand warranty included.,5
+C1238,Female,50+,Hyderabad,Platinum,Frequent,Net Banking,Beauty & Personal Care,No,Outstanding experience and lightning-fast next-day delivery!,4
+C1239,Female,26-35,Hyderabad,Silver,Occasional,Debit Card,Books & Stationery,Moderate,"Normal quality item, serves the intended purpose well.",3
+C1240,Male,36-50,Hyderabad,Bronze,Occasional,UPI,Fashion,High,"Good product considering the discount, but packaging was plain.",5
+C1241,Other,36-50,Mumbai,Platinum,Frequent,Net Banking,Beauty & Personal Care,Low,Outstanding experience and lightning-fast next-day delivery!,4
+C1242,Female,26-35,Pune,Bronze,Regular,Cash on Delivery,Books & Stationery,Yes,"Great budget option, met my basic expectations for the price.",4
+C1243,Female,50+,Delhi,Silver,Regular,Credit Card,Fashion,Low,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1244,Male,36-50,Chennai,Silver,Rare,Cash on Delivery,Electronics,Yes,"Customer support was unhelpful, very disappointing return process.",2
+C1245,Male,18-25,Chennai,None,Occasional,Debit Card,Home & Kitchen,Yes,Affordable pricing and reasonable quality for the money spent.,4
+C1246,Other,18-25,Hyderabad,None,Rare,Cash on Delivery,Fashion,Yes,"Not recommended at all, delivery executive was extremely rude.",2
+C1247,Female,18-25,Kolkata,Gold,Regular,Debit Card,Electronics,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",5
+C1248,Male,36-50,Delhi,Silver,Regular,UPI,Electronics,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1249,Male,18-25,Mumbai,None,Frequent,Credit Card,Beauty & Personal Care,No,Superb packaging and genuine brand warranty included.,5
+C1250,Female,36-50,Pune,Gold,Frequent,Credit Card,Beauty & Personal Care,Low,"Exceptional customer service, resolved my inquiry within minutes.",4
+C1251,Male,18-25,Delhi,None,Rare,Cash on Delivery,Home & Kitchen,Yes,"Defective piece received, took forever to get a replacement.",3
+C1252,Male,36-50,Ahmedabad,Silver,Occasional,Net Banking,Books & Stationery,Moderate,"Satisfactory purchase, nothing extraordinary but works fine.",4
+C1253,Male,18-25,Ahmedabad,None,Occasional,Cash on Delivery,Electronics,Yes,"Defective piece received, took forever to get a replacement.",2
+C1254,Female,26-35,Kolkata,None,Rare,UPI,Electronics,High,"Poor build quality, stopped working within two weeks of use.",2
+C1255,Other,26-35,Hyderabad,Silver,Occasional,Cash on Delivery,Electronics,No,"Customer support was unhelpful, very disappointing return process.",1
+C1256,Other,26-35,Bengaluru,Platinum,Regular,Credit Card,Fashion,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",5
+C1257,Other,36-50,Delhi,None,Rare,Cash on Delivery,Sports & Fitness,Sometimes,"Fair experience, will consider ordering again when needed.",3
+C1258,Male,50+,Chennai,Bronze,Rare,Net Banking,Beauty & Personal Care,No,"The item matches the description, decent for occasional use.",3
+C1259,Female,18-25,Kolkata,Silver,Regular,Cash on Delivery,Books & Stationery,Yes,"Good product considering the discount, but packaging was plain.",5
+C1260,Male,18-25,Hyderabad,Silver,Occasional,Cash on Delivery,Books & Stationery,Yes,"Great budget option, met my basic expectations for the price.",4
+C1261,Male,18-25,Mumbai,Platinum,Frequent,Net Banking,Beauty & Personal Care,No,"Consistently reliable quality, very happy with this purchase.",5
+C1262,Female,50+,Hyderabad,None,Occasional,UPI,Fashion,Yes,"Decent quality for daily use, coupon code made it very cheap.",4
+C1263,Male,26-35,Delhi,Silver,Regular,Debit Card,Books & Stationery,High,"Great discount during the festive flash sale, decent product.",3
+C1264,Male,26-35,Mumbai,Silver,Occasional,UPI,Beauty & Personal Care,Moderate,"Fair experience, will consider ordering again when needed.",3
+C1265,Male,50+,Bengaluru,Platinum,Frequent,Debit Card,Fashion,No,Superb packaging and genuine brand warranty included.,4
+C1266,Female,50+,Delhi,None,Occasional,Cash on Delivery,Books & Stationery,No,"Average shopping experience, arrived on time as expected.",3
+C1267,Male,36-50,Bengaluru,Bronze,Regular,Debit Card,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",4
+C1268,Other,18-25,Delhi,Platinum,Regular,Net Banking,Beauty & Personal Care,No,The product quality was excellent and packaging was top-notch.,4
+C1269,Other,50+,Hyderabad,Bronze,Occasional,UPI,Home & Kitchen,High,Best value deal I found online compared to other platforms.,4
+C1270,Female,26-35,Hyderabad,Gold,Frequent,Net Banking,Electronics,Low,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1271,Male,36-50,Delhi,None,Rare,Net Banking,Fashion,No,"Misleading product description and late dispatch, very unhappy.",2
+C1272,Male,18-25,Kolkata,None,Regular,UPI,Fashion,High,"Pocket-friendly prices, worth buying if coupons are applied.",4
+C1273,Male,50+,Ahmedabad,Bronze,Rare,Cash on Delivery,Home & Kitchen,No,"Not recommended at all, delivery executive was extremely rude.",2
+C1274,Male,36-50,Chennai,Platinum,Frequent,UPI,Fashion,No,Outstanding experience and lightning-fast next-day delivery!,5
+C1275,Other,50+,Chennai,None,Frequent,UPI,Books & Stationery,High,"Good product considering the discount, but packaging was plain.",4
+C1276,Male,36-50,Mumbai,Silver,Regular,UPI,Home & Kitchen,High,"Satisfied with the discount, though delivery took 4 days.",5
+C1277,Female,26-35,Hyderabad,Bronze,Rare,Cash on Delivery,Electronics,No,"Poor build quality, stopped working within two weeks of use.",1
+C1278,Other,50+,Delhi,None,Rare,Debit Card,Home & Kitchen,High,"Item did not match pictures shown on website, low quality material.",1
+C1279,Male,26-35,Pune,Bronze,Occasional,UPI,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",3
+C1280,Male,50+,Mumbai,Silver,Occasional,UPI,Sports & Fitness,Sometimes,"Satisfactory purchase, nothing extraordinary but works fine.",3
+C1281,Other,36-50,Kolkata,Silver,Rare,UPI,Home & Kitchen,Yes,"Very frustrating experience, refund took over 10 days to process.",1
+C1282,Female,18-25,Chennai,Bronze,Frequent,Debit Card,Home & Kitchen,High,"Great budget option, met my basic expectations for the price.",4
+C1283,Male,36-50,Hyderabad,Bronze,Occasional,Cash on Delivery,Electronics,High,"Poor build quality, stopped working within two weeks of use.",1
+C1284,Male,36-50,Kolkata,Silver,Occasional,Debit Card,Sports & Fitness,No,"Standard delivery speed, okay product quality overall.",3
+C1285,Other,50+,Chennai,None,Occasional,UPI,Books & Stationery,Sometimes,"The item matches the description, decent for occasional use.",4
+C1286,Female,36-50,Delhi,None,Occasional,Cash on Delivery,Books & Stationery,Yes,"Decent quality for daily use, coupon code made it very cheap.",3
+C1287,Female,50+,Mumbai,Silver,Frequent,UPI,Home & Kitchen,Yes,Affordable pricing and reasonable quality for the money spent.,5
+C1288,Female,26-35,Bengaluru,None,Occasional,UPI,Books & Stationery,Yes,"Decent quality for daily use, coupon code made it very cheap.",3
+C1289,Male,26-35,Chennai,Platinum,Frequent,Net Banking,Fashion,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",5
+C1290,Other,50+,Kolkata,Gold,Frequent,Net Banking,Fashion,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1291,Other,26-35,Mumbai,None,Occasional,Cash on Delivery,Electronics,High,"Very frustrating experience, refund took over 10 days to process.",2
+C1292,Female,18-25,Mumbai,None,Occasional,UPI,Books & Stationery,High,"Decent quality for daily use, coupon code made it very cheap.",5
+C1293,Male,36-50,Hyderabad,Gold,Frequent,Credit Card,Electronics,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1294,Male,18-25,Kolkata,Gold,Regular,Credit Card,Beauty & Personal Care,No,The product quality was excellent and packaging was top-notch.,5
+C1295,Other,36-50,Ahmedabad,None,Regular,UPI,Home & Kitchen,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",4
+C1296,Female,18-25,Pune,Bronze,Regular,UPI,Fashion,High,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1297,Male,36-50,Bengaluru,Bronze,Frequent,Credit Card,Fashion,High,"Decent quality for daily use, coupon code made it very cheap.",3
+C1298,Other,50+,Bengaluru,None,Occasional,Cash on Delivery,Fashion,High,"Very frustrating experience, refund took over 10 days to process.",1
+C1299,Male,50+,Mumbai,None,Rare,Cash on Delivery,Home & Kitchen,No,"Not recommended at all, delivery executive was extremely rude.",2
+C1300,Female,18-25,Bengaluru,Bronze,Occasional,Net Banking,Books & Stationery,No,"Average shopping experience, arrived on time as expected.",3
+C1301,Male,50+,Pune,Gold,Regular,Net Banking,Fashion,Low,Outstanding experience and lightning-fast next-day delivery!,5
+C1302,Female,18-25,Kolkata,Silver,Occasional,UPI,Electronics,High,"Poor build quality, stopped working within two weeks of use.",1
+C1303,Other,26-35,Ahmedabad,Silver,Rare,Net Banking,Home & Kitchen,Yes,"Very frustrating experience, refund took over 10 days to process.",1
+C1304,Other,26-35,Chennai,Silver,Occasional,UPI,Books & Stationery,Moderate,"The item matches the description, decent for occasional use.",4
+C1305,Female,18-25,Bengaluru,Silver,Rare,Cash on Delivery,Electronics,No,"Defective piece received, took forever to get a replacement.",2
+C1306,Other,50+,Kolkata,None,Regular,UPI,Home & Kitchen,High,Affordable pricing and reasonable quality for the money spent.,3
+C1307,Male,18-25,Delhi,Gold,Frequent,Credit Card,Beauty & Personal Care,Low,Outstanding experience and lightning-fast next-day delivery!,5
+C1308,Other,26-35,Ahmedabad,None,Occasional,Debit Card,Beauty & Personal Care,Moderate,"Balanced quality for the price, neither great nor bad.",3
+C1309,Female,26-35,Mumbai,Silver,Occasional,Debit Card,Books & Stationery,High,Affordable pricing and reasonable quality for the money spent.,4
+C1310,Other,50+,Delhi,None,Occasional,Cash on Delivery,Electronics,Yes,"Defective piece received, took forever to get a replacement.",1
+C1311,Female,50+,Mumbai,Silver,Occasional,Credit Card,Sports & Fitness,No,"The item matches the description, decent for occasional use.",3
+C1312,Male,50+,Bengaluru,Silver,Regular,Cash on Delivery,Fashion,Yes,"Decent quality for daily use, coupon code made it very cheap.",5
+C1313,Other,26-35,Pune,Silver,Rare,Debit Card,Home & Kitchen,Yes,"Not recommended at all, delivery executive was extremely rude.",2
+C1314,Other,36-50,Hyderabad,None,Regular,Debit Card,Books & Stationery,Yes,Best value deal I found online compared to other platforms.,3
+C1315,Female,36-50,Ahmedabad,Silver,Frequent,UPI,Books & Stationery,High,"Pocket-friendly prices, worth buying if coupons are applied.",5
+C1316,Female,18-25,Kolkata,Gold,Frequent,Credit Card,Electronics,No,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1317,Male,26-35,Mumbai,Platinum,Frequent,Credit Card,Beauty & Personal Care,Low,"Exceptional customer service, resolved my inquiry within minutes.",4
+C1318,Other,36-50,Mumbai,Bronze,Frequent,Net Banking,Beauty & Personal Care,No,The product quality was excellent and packaging was top-notch.,4
+C1319,Male,26-35,Chennai,Bronze,Occasional,Cash on Delivery,Home & Kitchen,No,"Customer support was unhelpful, very disappointing return process.",2
+C1320,Male,18-25,Kolkata,None,Frequent,Debit Card,Fashion,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",5
+C1321,Female,36-50,Mumbai,Bronze,Regular,UPI,Fashion,Low,"Superior product build, completely exceeded my expectations!",4
+C1322,Other,18-25,Bengaluru,Silver,Occasional,UPI,Electronics,No,"Defective piece received, took forever to get a replacement.",2
+C1323,Other,50+,Mumbai,Bronze,Frequent,Debit Card,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",5
+C1324,Female,50+,Pune,Silver,Frequent,Debit Card,Fashion,High,"Great budget option, met my basic expectations for the price.",4
+C1325,Male,18-25,Delhi,Bronze,Rare,Debit Card,Sports & Fitness,Sometimes,"Standard delivery speed, okay product quality overall.",4
+C1326,Other,50+,Delhi,Silver,Frequent,Net Banking,Beauty & Personal Care,No,Outstanding experience and lightning-fast next-day delivery!,5
+C1327,Other,26-35,Pune,Gold,Occasional,UPI,Books & Stationery,Yes,"Decent quality for daily use, coupon code made it very cheap.",3
+C1328,Other,18-25,Mumbai,Silver,Occasional,Debit Card,Books & Stationery,No,"Average shopping experience, arrived on time as expected.",3
+C1329,Other,18-25,Ahmedabad,None,Frequent,Cash on Delivery,Fashion,High,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1330,Other,36-50,Mumbai,Bronze,Occasional,Debit Card,Beauty & Personal Care,No,"Average customer support response, product is okay.",3
+C1331,Other,36-50,Hyderabad,Bronze,Frequent,Cash on Delivery,Fashion,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1332,Female,50+,Delhi,None,Rare,Debit Card,Books & Stationery,Sometimes,"Balanced quality for the price, neither great nor bad.",4
+C1333,Female,18-25,Pune,Silver,Occasional,Net Banking,Books & Stationery,Moderate,"Fair experience, will consider ordering again when needed.",3
+C1334,Male,50+,Bengaluru,Bronze,Occasional,Cash on Delivery,Fashion,High,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1335,Male,50+,Ahmedabad,None,Occasional,Cash on Delivery,Sports & Fitness,Sometimes,"Average shopping experience, arrived on time as expected.",4
+C1336,Other,26-35,Pune,Platinum,Regular,Credit Card,Electronics,Low,"Consistently reliable quality, very happy with this purchase.",5
+C1337,Male,50+,Bengaluru,Platinum,Frequent,Credit Card,Beauty & Personal Care,Low,"Top-tier craftsmanship, always my preferred platform for luxury items.",4
+C1338,Other,18-25,Hyderabad,Silver,Frequent,Cash on Delivery,Books & Stationery,Yes,Best value deal I found online compared to other platforms.,3
+C1339,Female,50+,Chennai,Silver,Occasional,Cash on Delivery,Beauty & Personal Care,Sometimes,"Normal quality item, serves the intended purpose well.",3
+C1340,Male,50+,Ahmedabad,Bronze,Regular,UPI,Books & Stationery,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",4
+C1341,Female,50+,Kolkata,None,Frequent,UPI,Books & Stationery,Yes,"Good product considering the discount, but packaging was plain.",3
+C1342,Male,50+,Mumbai,Bronze,Rare,Cash on Delivery,Electronics,Yes,"Very frustrating experience, refund took over 10 days to process.",3
+C1343,Other,18-25,Hyderabad,Bronze,Occasional,UPI,Home & Kitchen,High,"Great budget option, met my basic expectations for the price.",3
+C1344,Female,26-35,Mumbai,Bronze,Occasional,Cash on Delivery,Electronics,High,Delivery was delayed by a week and the outer box was damaged.,3
+C1345,Female,50+,Mumbai,Platinum,Frequent,Credit Card,Fashion,Low,Superb packaging and genuine brand warranty included.,5
+C1346,Other,26-35,Pune,Bronze,Rare,Net Banking,Books & Stationery,No,"Average shopping experience, arrived on time as expected.",3
+C1347,Female,50+,Bengaluru,Silver,Frequent,Credit Card,Fashion,Low,The product quality was excellent and packaging was top-notch.,4
+C1348,Female,50+,Bengaluru,Silver,Rare,Cash on Delivery,Sports & Fitness,Moderate,"Satisfactory purchase, nothing extraordinary but works fine.",3
+C1349,Male,50+,Chennai,None,Rare,Cash on Delivery,Home & Kitchen,No,"Customer support was unhelpful, very disappointing return process.",2
+C1350,Female,18-25,Mumbai,Silver,Frequent,UPI,Books & Stationery,Yes,"Good product considering the discount, but packaging was plain.",3
+C1351,Female,50+,Pune,None,Frequent,UPI,Books & Stationery,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",5
+C1352,Other,50+,Bengaluru,Platinum,Regular,Net Banking,Fashion,No,"Superior product build, completely exceeded my expectations!",4
+C1353,Other,18-25,Hyderabad,Gold,Regular,Credit Card,Electronics,No,"Consistently reliable quality, very happy with this purchase.",4
+C1354,Other,18-25,Bengaluru,Silver,Rare,Debit Card,Beauty & Personal Care,Sometimes,"Average customer support response, product is okay.",4
+C1355,Other,18-25,Kolkata,Bronze,Frequent,Debit Card,Books & Stationery,High,Best value deal I found online compared to other platforms.,4
+C1356,Other,36-50,Hyderabad,Platinum,Regular,Debit Card,Beauty & Personal Care,No,"Superior product build, completely exceeded my expectations!",5
+C1357,Male,50+,Chennai,Gold,Frequent,Credit Card,Beauty & Personal Care,No,Outstanding experience and lightning-fast next-day delivery!,5
+C1358,Other,36-50,Chennai,None,Regular,Cash on Delivery,Home & Kitchen,Yes,"Great discount during the festive flash sale, decent product.",5
+C1359,Female,36-50,Chennai,Platinum,Regular,UPI,Beauty & Personal Care,Low,Superb packaging and genuine brand warranty included.,4
+C1360,Male,50+,Ahmedabad,Silver,Occasional,Debit Card,Books & Stationery,Sometimes,"Standard delivery speed, okay product quality overall.",4
+C1361,Male,18-25,Pune,None,Occasional,UPI,Home & Kitchen,High,Affordable pricing and reasonable quality for the money spent.,4
+C1362,Female,36-50,Bengaluru,None,Occasional,Cash on Delivery,Fashion,High,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1363,Other,36-50,Bengaluru,Platinum,Frequent,Credit Card,Beauty & Personal Care,Low,The product quality was excellent and packaging was top-notch.,5
+C1364,Male,36-50,Chennai,Gold,Regular,UPI,Fashion,No,"Flawless shopping experience, the premium membership benefits are worth it.",4
+C1365,Other,50+,Ahmedabad,Silver,Frequent,UPI,Fashion,Low,Superb packaging and genuine brand warranty included.,5
+C1366,Other,18-25,Mumbai,None,Occasional,UPI,Home & Kitchen,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",5
+C1367,Other,36-50,Chennai,Gold,Frequent,Net Banking,Electronics,No,"Superior product build, completely exceeded my expectations!",4
+C1368,Female,26-35,Delhi,Platinum,Frequent,Cash on Delivery,Fashion,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",5
+C1369,Other,36-50,Ahmedabad,None,Occasional,UPI,Home & Kitchen,Yes,"Great discount during the festive flash sale, decent product.",3
+C1370,Female,50+,Chennai,Gold,Rare,Debit Card,Fashion,High,"Poor build quality, stopped working within two weeks of use.",2
+C1371,Other,26-35,Bengaluru,None,Occasional,Net Banking,Sports & Fitness,No,"Balanced quality for the price, neither great nor bad.",4
+C1372,Other,26-35,Bengaluru,None,Occasional,UPI,Fashion,Yes,"Decent quality for daily use, coupon code made it very cheap.",3
+C1373,Male,50+,Pune,Bronze,Occasional,UPI,Home & Kitchen,Yes,"Great discount during the festive flash sale, decent product.",3
+C1374,Other,18-25,Hyderabad,None,Frequent,Credit Card,Electronics,No,The product quality was excellent and packaging was top-notch.,5
+C1375,Female,36-50,Bengaluru,None,Occasional,UPI,Home & Kitchen,Yes,"Very frustrating experience, refund took over 10 days to process.",2
+C1376,Female,18-25,Mumbai,None,Occasional,UPI,Home & Kitchen,High,"Great budget option, met my basic expectations for the price.",4
+C1377,Other,50+,Kolkata,Silver,Frequent,Debit Card,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",5
+C1378,Male,26-35,Pune,Bronze,Regular,Cash on Delivery,Home & Kitchen,Yes,"Great discount during the festive flash sale, decent product.",3
+C1379,Male,18-25,Kolkata,None,Rare,UPI,Beauty & Personal Care,No,"Standard delivery speed, okay product quality overall.",3
+C1380,Female,50+,Kolkata,None,Occasional,UPI,Home & Kitchen,High,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1381,Male,26-35,Delhi,Bronze,Occasional,Net Banking,Beauty & Personal Care,No,"Balanced quality for the price, neither great nor bad.",4
+C1382,Female,26-35,Mumbai,Silver,Frequent,Credit Card,Electronics,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",4
+C1383,Female,18-25,Ahmedabad,Gold,Frequent,Credit Card,Fashion,No,Superb packaging and genuine brand warranty included.,4
+C1384,Female,18-25,Pune,Silver,Rare,UPI,Electronics,Yes,"Not recommended at all, delivery executive was extremely rude.",2
+C1385,Female,50+,Ahmedabad,Bronze,Rare,Debit Card,Beauty & Personal Care,Moderate,"Standard delivery speed, okay product quality overall.",3
+C1386,Male,26-35,Mumbai,Silver,Frequent,Debit Card,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",4
+C1387,Female,50+,Chennai,Gold,Rare,Debit Card,Fashion,Yes,"Defective piece received, took forever to get a replacement.",1
+C1388,Other,26-35,Chennai,Silver,Occasional,UPI,Books & Stationery,Sometimes,"Normal quality item, serves the intended purpose well.",3
+C1389,Female,36-50,Bengaluru,Silver,Occasional,Cash on Delivery,Beauty & Personal Care,Moderate,"Normal quality item, serves the intended purpose well.",3
+C1390,Other,50+,Chennai,Gold,Frequent,Credit Card,Fashion,Low,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1391,Other,36-50,Chennai,Bronze,Occasional,Cash on Delivery,Fashion,High,"Great budget option, met my basic expectations for the price.",3
+C1392,Female,50+,Bengaluru,Bronze,Frequent,Debit Card,Books & Stationery,Yes,Affordable pricing and reasonable quality for the money spent.,4
+C1393,Other,50+,Bengaluru,Silver,Occasional,Debit Card,Home & Kitchen,High,Affordable pricing and reasonable quality for the money spent.,4
+C1394,Female,26-35,Mumbai,Gold,Frequent,Net Banking,Electronics,No,"Consistently reliable quality, very happy with this purchase.",5
+C1395,Male,18-25,Chennai,Bronze,Rare,Debit Card,Beauty & Personal Care,Sometimes,"Average shopping experience, arrived on time as expected.",4
+C1396,Other,50+,Chennai,Silver,Frequent,Debit Card,Books & Stationery,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",4
+C1397,Other,26-35,Kolkata,Gold,Frequent,Credit Card,Beauty & Personal Care,Low,"Consistently reliable quality, very happy with this purchase.",5
+C1398,Other,50+,Kolkata,Bronze,Regular,Cash on Delivery,Books & Stationery,Yes,"Decent quality for daily use, coupon code made it very cheap.",5
+C1399,Male,36-50,Chennai,None,Occasional,UPI,Books & Stationery,Yes,"Good product considering the discount, but packaging was plain.",5
+C1400,Other,36-50,Chennai,Silver,Occasional,Cash on Delivery,Beauty & Personal Care,No,"Fair experience, will consider ordering again when needed.",3
+C1401,Male,18-25,Pune,Bronze,Rare,Debit Card,Electronics,High,"Item did not match pictures shown on website, low quality material.",2
+C1402,Male,36-50,Hyderabad,Gold,Frequent,UPI,Electronics,Low,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1403,Female,50+,Delhi,None,Occasional,Cash on Delivery,Beauty & Personal Care,Sometimes,"Normal quality item, serves the intended purpose well.",3
+C1404,Female,26-35,Mumbai,Silver,Rare,Debit Card,Fashion,Yes,"Item did not match pictures shown on website, low quality material.",2
+C1405,Other,50+,Ahmedabad,Silver,Regular,Credit Card,Electronics,No,"Consistently reliable quality, very happy with this purchase.",4
+C1406,Other,18-25,Kolkata,None,Regular,UPI,Books & Stationery,Yes,Best value deal I found online compared to other platforms.,3
+C1407,Other,26-35,Hyderabad,None,Regular,Debit Card,Home & Kitchen,Yes,Affordable pricing and reasonable quality for the money spent.,5
+C1408,Female,36-50,Chennai,Silver,Frequent,UPI,Home & Kitchen,Yes,"Great budget option, met my basic expectations for the price.",4
+C1409,Female,26-35,Chennai,Bronze,Occasional,Cash on Delivery,Electronics,High,"Defective piece received, took forever to get a replacement.",1
+C1410,Male,18-25,Chennai,None,Rare,UPI,Home & Kitchen,Yes,"Defective piece received, took forever to get a replacement.",2
+C1411,Male,50+,Bengaluru,Bronze,Occasional,UPI,Home & Kitchen,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",4
+C1412,Male,18-25,Delhi,None,Regular,UPI,Beauty & Personal Care,Low,Outstanding experience and lightning-fast next-day delivery!,4
+C1413,Other,18-25,Chennai,Bronze,Frequent,UPI,Fashion,Yes,"Great budget option, met my basic expectations for the price.",5
+C1414,Other,36-50,Chennai,Gold,Frequent,Credit Card,Electronics,No,"Superior product build, completely exceeded my expectations!",4
+C1415,Other,36-50,Mumbai,None,Rare,Cash on Delivery,Fashion,No,"Item did not match pictures shown on website, low quality material.",2
+C1416,Other,50+,Hyderabad,Gold,Frequent,Credit Card,Fashion,No,"Superior product build, completely exceeded my expectations!",4
+C1417,Other,26-35,Bengaluru,None,Rare,UPI,Books & Stationery,Sometimes,"The item matches the description, decent for occasional use.",3
+C1418,Female,26-35,Chennai,Bronze,Occasional,Cash on Delivery,Home & Kitchen,No,"Very frustrating experience, refund took over 10 days to process.",1
+C1419,Other,36-50,Bengaluru,Bronze,Rare,Cash on Delivery,Electronics,Yes,"Very frustrating experience, refund took over 10 days to process.",3
+C1420,Female,18-25,Chennai,Bronze,Frequent,UPI,Fashion,High,"Great budget option, met my basic expectations for the price.",5
+C1421,Male,50+,Bengaluru,Bronze,Rare,Cash on Delivery,Electronics,No,"Very frustrating experience, refund took over 10 days to process.",1
+C1422,Female,26-35,Delhi,Bronze,Occasional,Cash on Delivery,Sports & Fitness,Moderate,"Standard delivery speed, okay product quality overall.",4
+C1423,Male,36-50,Kolkata,Silver,Rare,Debit Card,Books & Stationery,Moderate,"Standard delivery speed, okay product quality overall.",3
+C1424,Other,50+,Mumbai,Bronze,Occasional,Cash on Delivery,Books & Stationery,Moderate,"Balanced quality for the price, neither great nor bad.",3
+C1425,Other,26-35,Ahmedabad,Silver,Rare,Cash on Delivery,Electronics,High,"Item did not match pictures shown on website, low quality material.",3
+C1426,Male,26-35,Ahmedabad,Platinum,Frequent,UPI,Beauty & Personal Care,Low,Outstanding experience and lightning-fast next-day delivery!,5
+C1427,Female,50+,Bengaluru,Silver,Rare,Cash on Delivery,Beauty & Personal Care,Sometimes,"The item matches the description, decent for occasional use.",3
+C1428,Female,50+,Pune,None,Rare,Cash on Delivery,Books & Stationery,No,"Average shopping experience, arrived on time as expected.",4
+C1429,Male,18-25,Ahmedabad,Gold,Frequent,Credit Card,Beauty & Personal Care,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1430,Female,18-25,Hyderabad,Silver,Occasional,Credit Card,Fashion,Yes,"Great discount during the festive flash sale, decent product.",3
+C1431,Other,36-50,Chennai,Silver,Occasional,Debit Card,Books & Stationery,Sometimes,"Fair experience, will consider ordering again when needed.",4
+C1432,Other,26-35,Ahmedabad,Silver,Occasional,UPI,Fashion,Yes,"Decent quality for daily use, coupon code made it very cheap.",4
+C1433,Other,18-25,Pune,Silver,Occasional,Debit Card,Sports & Fitness,Moderate,"Average customer support response, product is okay.",3
+C1434,Female,18-25,Ahmedabad,None,Occasional,Net Banking,Books & Stationery,No,"Normal quality item, serves the intended purpose well.",3
+C1435,Other,50+,Ahmedabad,None,Frequent,Cash on Delivery,Books & Stationery,Yes,"Great discount during the festive flash sale, decent product.",3
+C1436,Other,26-35,Kolkata,Silver,Occasional,Net Banking,Books & Stationery,No,"Satisfactory purchase, nothing extraordinary but works fine.",4
+C1437,Female,36-50,Pune,Silver,Regular,UPI,Electronics,No,"Superior product build, completely exceeded my expectations!",4
+C1438,Female,26-35,Chennai,None,Occasional,UPI,Home & Kitchen,Yes,"Misleading product description and late dispatch, very unhappy.",2
+C1439,Male,50+,Kolkata,None,Occasional,Debit Card,Fashion,High,Delivery was delayed by a week and the outer box was damaged.,2
+C1440,Male,18-25,Bengaluru,None,Occasional,Net Banking,Books & Stationery,No,"The item matches the description, decent for occasional use.",3
+C1441,Male,36-50,Mumbai,None,Occasional,UPI,Home & Kitchen,Yes,"Great budget option, met my basic expectations for the price.",4
+C1442,Female,18-25,Chennai,Bronze,Regular,UPI,Home & Kitchen,High,"Great budget option, met my basic expectations for the price.",4
+C1443,Male,36-50,Chennai,None,Regular,Cash on Delivery,Fashion,High,"Great budget option, met my basic expectations for the price.",4
+C1444,Male,18-25,Delhi,Platinum,Frequent,Credit Card,Electronics,Low,The product quality was excellent and packaging was top-notch.,4
+C1445,Male,26-35,Hyderabad,None,Rare,Debit Card,Home & Kitchen,High,"Very frustrating experience, refund took over 10 days to process.",1
+C1446,Other,18-25,Hyderabad,Silver,Frequent,UPI,Fashion,No,"Exceptional customer service, resolved my inquiry within minutes.",4
+C1447,Other,50+,Mumbai,None,Rare,UPI,Fashion,Yes,"Not recommended at all, delivery executive was extremely rude.",1
+C1448,Other,50+,Chennai,None,Occasional,UPI,Sports & Fitness,No,"Average shopping experience, arrived on time as expected.",3
+C1449,Female,18-25,Ahmedabad,Bronze,Occasional,Debit Card,Books & Stationery,High,"Great budget option, met my basic expectations for the price.",3
+C1450,Other,36-50,Chennai,Gold,Rare,Debit Card,Home & Kitchen,No,Delivery was delayed by a week and the outer box was damaged.,1
+C1451,Female,36-50,Chennai,Silver,Frequent,Cash on Delivery,Books & Stationery,Yes,Affordable pricing and reasonable quality for the money spent.,3
+C1452,Other,50+,Kolkata,Silver,Occasional,UPI,Sports & Fitness,Sometimes,"Average customer support response, product is okay.",4
+C1453,Male,36-50,Hyderabad,None,Frequent,UPI,Books & Stationery,High,"Great budget option, met my basic expectations for the price.",5
+C1454,Female,50+,Bengaluru,None,Occasional,UPI,Books & Stationery,Yes,"Satisfied with the discount, though delivery took 4 days.",5
+C1455,Female,26-35,Mumbai,Gold,Regular,Credit Card,Fashion,Low,"Consistently reliable quality, very happy with this purchase.",4
+C1456,Male,36-50,Pune,Gold,Regular,UPI,Electronics,Low,"Consistently reliable quality, very happy with this purchase.",5
+C1457,Other,18-25,Mumbai,Silver,Frequent,Credit Card,Fashion,No,"Consistently reliable quality, very happy with this purchase.",5
+C1458,Male,50+,Kolkata,Bronze,Frequent,Cash on Delivery,Books & Stationery,Yes,Best value deal I found online compared to other platforms.,3
+C1459,Male,26-35,Pune,Bronze,Rare,Cash on Delivery,Electronics,High,"Item did not match pictures shown on website, low quality material.",1
+C1460,Female,18-25,Bengaluru,Bronze,Occasional,UPI,Books & Stationery,Yes,"Satisfied with the discount, though delivery took 4 days.",3
+C1461,Female,50+,Mumbai,Silver,Occasional,Cash on Delivery,Books & Stationery,High,"Satisfied with the discount, though delivery took 4 days.",4
+C1462,Female,50+,Chennai,Platinum,Regular,Net Banking,Beauty & Personal Care,No,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1463,Male,18-25,Pune,Silver,Frequent,UPI,Beauty & Personal Care,No,Superb packaging and genuine brand warranty included.,5
+C1464,Male,36-50,Pune,None,Occasional,Debit Card,Sports & Fitness,No,"Fair experience, will consider ordering again when needed.",3
+C1465,Other,36-50,Mumbai,None,Occasional,UPI,Fashion,High,"Pocket-friendly prices, worth buying if coupons are applied.",4
+C1466,Male,18-25,Delhi,Silver,Frequent,Credit Card,Beauty & Personal Care,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",4
+C1467,Other,18-25,Chennai,Bronze,Regular,Cash on Delivery,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",3
+C1468,Other,36-50,Mumbai,Platinum,Frequent,Credit Card,Electronics,No,Superb packaging and genuine brand warranty included.,5
+C1469,Other,26-35,Kolkata,Silver,Occasional,Net Banking,Beauty & Personal Care,No,"Satisfactory purchase, nothing extraordinary but works fine.",4
+C1470,Male,18-25,Delhi,Silver,Frequent,Debit Card,Home & Kitchen,High,"Decent quality for daily use, coupon code made it very cheap.",4
+C1471,Other,50+,Ahmedabad,Gold,Regular,Credit Card,Beauty & Personal Care,No,"Superior product build, completely exceeded my expectations!",5
+C1472,Female,50+,Delhi,None,Occasional,Credit Card,Home & Kitchen,Yes,"Very frustrating experience, refund took over 10 days to process.",2
+C1473,Other,26-35,Delhi,Platinum,Frequent,Credit Card,Fashion,Low,"Top-tier craftsmanship, always my preferred platform for luxury items.",4
+C1474,Male,18-25,Ahmedabad,Platinum,Frequent,UPI,Fashion,No,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1475,Female,36-50,Pune,None,Occasional,UPI,Home & Kitchen,Yes,"Satisfied with the discount, though delivery took 4 days.",5
+C1476,Male,26-35,Delhi,Gold,Regular,UPI,Electronics,No,Outstanding experience and lightning-fast next-day delivery!,5
+C1477,Male,26-35,Mumbai,Bronze,Frequent,UPI,Home & Kitchen,Yes,"Satisfied with the discount, though delivery took 4 days.",4
+C1478,Male,50+,Kolkata,Silver,Occasional,Cash on Delivery,Fashion,Yes,"Not recommended at all, delivery executive was extremely rude.",1
+C1479,Other,36-50,Chennai,None,Occasional,UPI,Books & Stationery,High,"Decent quality for daily use, coupon code made it very cheap.",4
+C1480,Male,36-50,Hyderabad,Gold,Regular,Credit Card,Fashion,Low,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1481,Male,50+,Delhi,Silver,Rare,UPI,Beauty & Personal Care,Sometimes,"Satisfactory purchase, nothing extraordinary but works fine.",4
+C1482,Female,36-50,Ahmedabad,Silver,Occasional,Credit Card,Fashion,Yes,"Decent quality for daily use, coupon code made it very cheap.",4
+C1483,Other,50+,Bengaluru,Silver,Frequent,Credit Card,Electronics,Low,Superb packaging and genuine brand warranty included.,5
+C1484,Female,26-35,Bengaluru,None,Rare,Credit Card,Home & Kitchen,Yes,"Item did not match pictures shown on website, low quality material.",1
+C1485,Other,26-35,Delhi,Gold,Frequent,UPI,Beauty & Personal Care,Low,"Superior product build, completely exceeded my expectations!",5
+C1486,Male,26-35,Mumbai,Silver,Regular,Debit Card,Fashion,Yes,Best value deal I found online compared to other platforms.,4
+C1487,Female,50+,Hyderabad,Silver,Regular,Cash on Delivery,Fashion,High,"Satisfied with the discount, though delivery took 4 days.",5
+C1488,Female,26-35,Delhi,Silver,Frequent,Net Banking,Beauty & Personal Care,No,"Exceptional customer service, resolved my inquiry within minutes.",5
+C1489,Female,26-35,Mumbai,Silver,Regular,UPI,Books & Stationery,Yes,"Decent quality for daily use, coupon code made it very cheap.",4
+C1490,Other,18-25,Chennai,Gold,Regular,Credit Card,Fashion,Low,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1491,Male,50+,Bengaluru,Bronze,Rare,Debit Card,Beauty & Personal Care,No,"Fair experience, will consider ordering again when needed.",3
+C1492,Male,18-25,Delhi,Silver,Rare,UPI,Beauty & Personal Care,Sometimes,"Average shopping experience, arrived on time as expected.",4
+C1493,Male,50+,Hyderabad,None,Regular,UPI,Home & Kitchen,Yes,"Good product considering the discount, but packaging was plain.",4
+C1494,Female,18-25,Ahmedabad,Silver,Occasional,UPI,Home & Kitchen,Yes,"Great budget option, met my basic expectations for the price.",3
+C1495,Female,36-50,Pune,None,Occasional,Cash on Delivery,Fashion,High,"Great discount during the festive flash sale, decent product.",5
+C1496,Male,26-35,Chennai,None,Occasional,Cash on Delivery,Books & Stationery,High,"Good product considering the discount, but packaging was plain.",3
+C1497,Female,50+,Ahmedabad,None,Regular,UPI,Books & Stationery,Yes,"Decent quality for daily use, coupon code made it very cheap.",3
+C1498,Female,18-25,Kolkata,None,Rare,UPI,Fashion,High,"Not recommended at all, delivery executive was extremely rude.",1
+C1499,Female,50+,Ahmedabad,Bronze,Occasional,Debit Card,Sports & Fitness,No,"Standard delivery speed, okay product quality overall.",4
+C1500,Female,18-25,Ahmedabad,None,Occasional,Cash on Delivery,Sports & Fitness,No,"Satisfactory purchase, nothing extraordinary but works fine.",3
+C1501,Other,50+,Bengaluru,Platinum,Regular,Net Banking,Beauty & Personal Care,Low,Outstanding experience and lightning-fast next-day delivery!,5
+C1502,Male,50+,Pune,Silver,Frequent,UPI,Books & Stationery,Yes,"Decent quality for daily use, coupon code made it very cheap.",5
+C1503,Female,50+,Chennai,Silver,Occasional,Cash on Delivery,Home & Kitchen,No,"Customer support was unhelpful, very disappointing return process.",2
+C1504,Male,26-35,Delhi,Gold,Regular,Credit Card,Beauty & Personal Care,No,"Superior product build, completely exceeded my expectations!",4
+C1505,Female,18-25,Chennai,None,Occasional,UPI,Books & Stationery,High,"Great budget option, met my basic expectations for the price.",4
+C1506,Male,50+,Chennai,Bronze,Regular,UPI,Fashion,Yes,Best value deal I found online compared to other platforms.,3
+C1507,Male,18-25,Bengaluru,Gold,Frequent,Credit Card,Beauty & Personal Care,Low,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1508,Male,36-50,Kolkata,Silver,Occasional,Cash on Delivery,Home & Kitchen,Yes,Delivery was delayed by a week and the outer box was damaged.,1
+C1509,Other,36-50,Kolkata,None,Occasional,Debit Card,Home & Kitchen,High,"Misleading product description and late dispatch, very unhappy.",3
+C1510,Male,26-35,Pune,Bronze,Rare,Debit Card,Home & Kitchen,Yes,"Poor build quality, stopped working within two weeks of use.",2
+C1511,Female,36-50,Bengaluru,Bronze,Rare,UPI,Beauty & Personal Care,Sometimes,"Satisfactory purchase, nothing extraordinary but works fine.",3
+C1512,Male,26-35,Hyderabad,Silver,Frequent,UPI,Books & Stationery,Yes,Best value deal I found online compared to other platforms.,4
+C1513,Male,18-25,Mumbai,Gold,Frequent,Credit Card,Fashion,No,The product quality was excellent and packaging was top-notch.,5
+C1514,Other,36-50,Ahmedabad,None,Frequent,Cash on Delivery,Books & Stationery,High,"Decent quality for daily use, coupon code made it very cheap.",3
+C1515,Female,18-25,Pune,Silver,Rare,Cash on Delivery,Home & Kitchen,No,"Poor build quality, stopped working within two weeks of use.",1
+C1516,Male,26-35,Mumbai,Platinum,Regular,Net Banking,Beauty & Personal Care,Low,"Consistently reliable quality, very happy with this purchase.",5
+C1517,Female,36-50,Kolkata,Bronze,Rare,Cash on Delivery,Books & Stationery,Moderate,"Satisfactory purchase, nothing extraordinary but works fine.",3
+C1518,Other,18-25,Hyderabad,Silver,Occasional,UPI,Home & Kitchen,No,"Not recommended at all, delivery executive was extremely rude.",2
+C1519,Other,18-25,Bengaluru,Bronze,Rare,UPI,Fashion,No,"Not recommended at all, delivery executive was extremely rude.",1
+C1520,Male,26-35,Ahmedabad,Bronze,Rare,Cash on Delivery,Home & Kitchen,No,"Misleading product description and late dispatch, very unhappy.",3
+C1521,Other,50+,Hyderabad,Bronze,Regular,Cash on Delivery,Home & Kitchen,Yes,Affordable pricing and reasonable quality for the money spent.,3
+C1522,Male,26-35,Mumbai,Bronze,Occasional,UPI,Fashion,High,"Great budget option, met my basic expectations for the price.",4
+C1523,Male,18-25,Chennai,Silver,Occasional,UPI,Sports & Fitness,Sometimes,"Normal quality item, serves the intended purpose well.",4
+C1524,Female,36-50,Chennai,Bronze,Frequent,Debit Card,Fashion,Yes,Affordable pricing and reasonable quality for the money spent.,4
+C1525,Female,26-35,Chennai,Platinum,Regular,UPI,Fashion,Low,Outstanding experience and lightning-fast next-day delivery!,4
+C1526,Female,36-50,Chennai,Gold,Frequent,UPI,Electronics,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",5
+C1527,Other,18-25,Kolkata,Silver,Occasional,Debit Card,Beauty & Personal Care,Sometimes,"Normal quality item, serves the intended purpose well.",4
+C1528,Other,36-50,Bengaluru,None,Occasional,Debit Card,Beauty & Personal Care,Sometimes,"Standard delivery speed, okay product quality overall.",4
+C1529,Male,18-25,Delhi,None,Rare,UPI,Electronics,Yes,Delivery was delayed by a week and the outer box was damaged.,1
+C1530,Female,36-50,Mumbai,Platinum,Frequent,Credit Card,Electronics,No,"Exceptional customer service, resolved my inquiry within minutes.",4
+C1531,Female,18-25,Bengaluru,None,Rare,Net Banking,Books & Stationery,Sometimes,"Standard delivery speed, okay product quality overall.",3
+C1532,Other,26-35,Hyderabad,None,Occasional,Debit Card,Sports & Fitness,Sometimes,"Balanced quality for the price, neither great nor bad.",4
+C1533,Female,26-35,Chennai,Bronze,Occasional,Cash on Delivery,Books & Stationery,Yes,Affordable pricing and reasonable quality for the money spent.,3
+C1534,Other,26-35,Ahmedabad,None,Frequent,Debit Card,Books & Stationery,High,Affordable pricing and reasonable quality for the money spent.,4
+C1535,Other,36-50,Ahmedabad,None,Frequent,UPI,Home & Kitchen,Yes,Affordable pricing and reasonable quality for the money spent.,3
+C1536,Male,26-35,Mumbai,Silver,Occasional,Cash on Delivery,Home & Kitchen,No,"Customer support was unhelpful, very disappointing return process.",3
+C1537,Female,26-35,Delhi,None,Occasional,Net Banking,Beauty & Personal Care,No,"Average shopping experience, arrived on time as expected.",4
+C1538,Other,36-50,Kolkata,None,Occasional,UPI,Home & Kitchen,High,Best value deal I found online compared to other platforms.,4
+C1539,Male,26-35,Bengaluru,Platinum,Frequent,Credit Card,Electronics,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",5
+C1540,Other,18-25,Delhi,Silver,Frequent,Net Banking,Electronics,No,Superb packaging and genuine brand warranty included.,5
+C1541,Other,18-25,Mumbai,Silver,Occasional,Net Banking,Books & Stationery,Moderate,"Balanced quality for the price, neither great nor bad.",4
+C1542,Male,26-35,Ahmedabad,Silver,Occasional,Net Banking,Sports & Fitness,Moderate,"Average shopping experience, arrived on time as expected.",4
+C1543,Other,50+,Ahmedabad,Silver,Regular,UPI,Home & Kitchen,Yes,"Satisfied with the discount, though delivery took 4 days.",3
+C1544,Male,18-25,Mumbai,None,Rare,Debit Card,Home & Kitchen,High,Delivery was delayed by a week and the outer box was damaged.,3
+C1545,Male,36-50,Chennai,Bronze,Occasional,UPI,Books & Stationery,Yes,"Good product considering the discount, but packaging was plain.",3
+C1546,Female,36-50,Delhi,None,Rare,Cash on Delivery,Fashion,No,"Misleading product description and late dispatch, very unhappy.",1
+C1547,Male,36-50,Mumbai,Bronze,Frequent,UPI,Home & Kitchen,Yes,"Satisfied with the discount, though delivery took 4 days.",5
+C1548,Other,26-35,Chennai,Bronze,Frequent,Debit Card,Fashion,High,"Decent quality for daily use, coupon code made it very cheap.",4
+C1549,Female,26-35,Pune,None,Occasional,Net Banking,Sports & Fitness,Moderate,"Average shopping experience, arrived on time as expected.",4
+C1550,Male,18-25,Ahmedabad,Bronze,Regular,Debit Card,Fashion,High,"Pocket-friendly prices, worth buying if coupons are applied.",4
+C1551,Male,36-50,Ahmedabad,Silver,Frequent,Credit Card,Beauty & Personal Care,Low,"Top-tier craftsmanship, always my preferred platform for luxury items.",4
+C1552,Other,50+,Pune,Silver,Occasional,Cash on Delivery,Fashion,Yes,"Misleading product description and late dispatch, very unhappy.",2
+C1553,Male,50+,Kolkata,None,Occasional,UPI,Books & Stationery,Moderate,"The item matches the description, decent for occasional use.",3
+C1554,Female,26-35,Hyderabad,Bronze,Regular,Debit Card,Home & Kitchen,Yes,"Satisfied with the discount, though delivery took 4 days.",5
+C1555,Male,26-35,Mumbai,Gold,Frequent,Credit Card,Beauty & Personal Care,No,The product quality was excellent and packaging was top-notch.,5
+C1556,Female,50+,Chennai,Bronze,Occasional,Cash on Delivery,Fashion,Yes,Affordable pricing and reasonable quality for the money spent.,5
+C1557,Other,36-50,Ahmedabad,None,Rare,Cash on Delivery,Home & Kitchen,No,"Not recommended at all, delivery executive was extremely rude.",3
+C1558,Female,26-35,Delhi,Bronze,Rare,Debit Card,Home & Kitchen,No,Delivery was delayed by a week and the outer box was damaged.,2
+C1559,Male,50+,Ahmedabad,Gold,Rare,Cash on Delivery,Home & Kitchen,No,"Very frustrating experience, refund took over 10 days to process.",2
+C1560,Female,26-35,Pune,Silver,Occasional,Net Banking,Sports & Fitness,Sometimes,"Standard delivery speed, okay product quality overall.",3
+C1561,Male,36-50,Pune,None,Rare,Debit Card,Electronics,Yes,"Poor build quality, stopped working within two weeks of use.",1
+C1562,Female,36-50,Delhi,Bronze,Occasional,UPI,Home & Kitchen,High,Affordable pricing and reasonable quality for the money spent.,3
+C1563,Male,50+,Chennai,Bronze,Frequent,UPI,Fashion,High,"Great budget option, met my basic expectations for the price.",3
+C1564,Other,36-50,Chennai,Silver,Regular,UPI,Fashion,Yes,Best value deal I found online compared to other platforms.,5
+C1565,Male,50+,Ahmedabad,Bronze,Occasional,UPI,Sports & Fitness,No,"Fair experience, will consider ordering again when needed.",3
+C1566,Male,26-35,Mumbai,Platinum,Regular,Credit Card,Electronics,No,"Flawless shopping experience, the premium membership benefits are worth it.",5
+C1567,Male,36-50,Bengaluru,Bronze,Occasional,Cash on Delivery,Books & Stationery,Yes,"Satisfied with the discount, though delivery took 4 days.",4
+C1568,Male,18-25,Hyderabad,Bronze,Rare,Debit Card,Home & Kitchen,High,"Not recommended at all, delivery executive was extremely rude.",1
+C1569,Male,26-35,Kolkata,Bronze,Occasional,UPI,Beauty & Personal Care,Moderate,"Standard delivery speed, okay product quality overall.",3
+C1570,Other,50+,Delhi,Bronze,Occasional,Cash on Delivery,Home & Kitchen,High,"Good product considering the discount, but packaging was plain.",3
+C1571,Male,18-25,Delhi,None,Occasional,Net Banking,Beauty & Personal Care,Moderate,"Satisfactory purchase, nothing extraordinary but works fine.",3
+C1572,Male,26-35,Mumbai,Silver,Regular,Debit Card,Fashion,High,"Decent quality for daily use, coupon code made it very cheap.",3
+C1573,Other,50+,Bengaluru,None,Regular,Debit Card,Fashion,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1574,Male,36-50,Chennai,Silver,Regular,Debit Card,Books & Stationery,Yes,"Great budget option, met my basic expectations for the price.",3
+C1575,Male,26-35,Ahmedabad,Gold,Frequent,Net Banking,Electronics,No,Superb packaging and genuine brand warranty included.,4
+C1576,Female,18-25,Chennai,Silver,Occasional,Net Banking,Beauty & Personal Care,Sometimes,"Fair experience, will consider ordering again when needed.",3
+C1577,Female,26-35,Kolkata,Platinum,Frequent,Net Banking,Beauty & Personal Care,No,The product quality was excellent and packaging was top-notch.,4
+C1578,Male,18-25,Chennai,Gold,Frequent,Credit Card,Fashion,Low,Superb packaging and genuine brand warranty included.,5
+C1579,Male,18-25,Ahmedabad,None,Rare,UPI,Beauty & Personal Care,Sometimes,"Normal quality item, serves the intended purpose well.",3
+C1580,Other,50+,Delhi,Bronze,Occasional,Cash on Delivery,Fashion,Yes,"Great discount during the festive flash sale, decent product.",4
+C1581,Male,26-35,Delhi,None,Occasional,Cash on Delivery,Sports & Fitness,Moderate,"The item matches the description, decent for occasional use.",3
+C1582,Female,50+,Ahmedabad,Bronze,Occasional,Debit Card,Books & Stationery,High,Affordable pricing and reasonable quality for the money spent.,3
+C1583,Male,50+,Delhi,Silver,Rare,Net Banking,Books & Stationery,No,"The item matches the description, decent for occasional use.",4
+C1584,Female,36-50,Ahmedabad,Silver,Occasional,Cash on Delivery,Books & Stationery,Sometimes,"Fair experience, will consider ordering again when needed.",4
+C1585,Female,18-25,Mumbai,Silver,Regular,UPI,Home & Kitchen,Yes,"Pocket-friendly prices, worth buying if coupons are applied.",3
+C1586,Female,18-25,Ahmedabad,Bronze,Occasional,Cash on Delivery,Beauty & Personal Care,Sometimes,"Fair experience, will consider ordering again when needed.",4
+C1587,Male,36-50,Chennai,Bronze,Occasional,UPI,Beauty & Personal Care,No,"Fair experience, will consider ordering again when needed.",3
+C1588,Female,50+,Delhi,Bronze,Regular,UPI,Home & Kitchen,High,"Great budget option, met my basic expectations for the price.",3
+C1589,Other,50+,Pune,Silver,Occasional,UPI,Beauty & Personal Care,Sometimes,"Satisfactory purchase, nothing extraordinary but works fine.",3
+C1590,Male,26-35,Hyderabad,Gold,Regular,Debit Card,Electronics,No,"Top-tier craftsmanship, always my preferred platform for luxury items.",5
+C1591,Other,50+,Ahmedabad,Silver,Rare,UPI,Fashion,Yes,"Very frustrating experience, refund took over 10 days to process.",2
+C1592,Female,18-25,Kolkata,Gold,Frequent,UPI,Electronics,No,Superb packaging and genuine brand warranty included.,5
+C1593,Male,26-35,Mumbai,None,Rare,Debit Card,Fashion,Yes,"Not recommended at all, delivery executive was extremely rude.",2
+C1594,Other,36-50,Ahmedabad,Silver,Occasional,UPI,Books & Stationery,No,"Balanced quality for the price, neither great nor bad.",4
+C1595,Other,36-50,Ahmedabad,Gold,Frequent,Net Banking,Fashion,Low,Superb packaging and genuine brand warranty included.,4
+C1596,Male,18-25,Ahmedabad,Bronze,Occasional,UPI,Beauty & Personal Care,No,"Average shopping experience, arrived on time as expected.",4
+C1597,Female,26-35,Mumbai,Bronze,Occasional,Debit Card,Home & Kitchen,High,Best value deal I found online compared to other platforms.,3
+C1598,Female,36-50,Kolkata,Platinum,Regular,Credit Card,Electronics,Low,Superb packaging and genuine brand warranty included.,5
+C1599,Female,36-50,Bengaluru,Silver,Frequent,UPI,Books & Stationery,Yes,"Great budget option, met my basic expectations for the price.",3
+C1600,Other,18-25,Mumbai,None,Rare,Cash on Delivery,Electronics,No,"Very frustrating experience, refund took over 10 days to process.",2
